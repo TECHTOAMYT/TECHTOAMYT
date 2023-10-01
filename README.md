@@ -42,7 +42,7 @@
 
 <h3 align="left">Support:</h3>
 
-<p><a href="https://www.techtoam/payme/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.techtoam.online/" /></a><a href="https://www.techtoam.online/"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://sites.google.com/view/thanksfull/" /></a></p><br><br>
+<p><a href="https://www.techtoam.online/payme/"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.techtoam.online/" /></a><a href="https://www.techtoam.online/payme"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="https://www.techtoam.online" /></a></p><br><br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=techtoamyt&show_icons=true&locale=en&layout=compact" alt="techtoamyt" /></p>
 
