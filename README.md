@@ -22,17 +22,17 @@
 
 <p align="left">
 
-<a href="https://codepen.io/techtoamyt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="techtoamyt" height="30" width="40" /></a>
+<a href="https://codepen.io/techtoamyt" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/CODEPEN.gif" alt="techtoamyt" height="30" width="40" /></a>
 
-<a href="https://twitter.com/techtoam1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="techtoam1" height="30" width="40" /></a>
+<a href="https://twitter.com/techtoam1" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/TWITTER.gif" alt="techtoam1" height="30" width="40" /></a>
 
-<a href="https://fb.com/ashbin.psheesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ashbin.psheesh" height="30" width="40" /></a>
+<a href="https://fb.com/techtoam" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/FB.gif" alt="ashbin.psheesh" height="30" width="40" /></a>
 
-<a href="https://instagram.com/tech_to_am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="tech_to_am" height="30" width="40" /></a>
+<a href="https://instagram.com/techtoam" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/INSTA.gif" alt="tech_to_am" height="30" width="40" /></a>
 
-<a href="https://www.youtube.com/c/techtoam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="techtoam" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/techtoam" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/YT.gif" alt="techtoam" height="30" width="40"/></a>
 
-<a href="https://discord.gg/Techtoam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Techtoam" height="30" width="40" /></a>
+<a href="https://whatsapp.com/channel/0029VaDNi2yLI8YWEqkRbT1d" target="blank"><img align="center" src="https://theblogplus.vercel.app/icons/WHATSAPP.gif" alt="Whatsapp Channel" height="30" width="40" /></a>
 
 </p>
 
