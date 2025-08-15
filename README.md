@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/techtoam1" target="blank"><img src="https://img.shields.io/twitter/follow/techtoam1?logo=twitter&style=for-the-badge" alt="techtoam1" /></a> </p>
 
-- 🔭 I’m currently working on Telegram bots [TECHTOAM---TTAM_BOT](https://github.com/TECHTOAMYT/TTAM---MBOT)
+- 🔭 In my Projects Favorite one : Telegram bots [TECHTOAM---TTAM_BOT](https://github.com/TECHTOAMYT/TTAM---MBOT)
 
 - 🤔 Any enquiry to E mail me [Email](techtoambusiness.com)
 
