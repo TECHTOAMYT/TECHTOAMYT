@@ -3,7 +3,7 @@
   <p></p>( Kerala 📻 ) </h3>
 
   
-<img align="right" alt="coding" width="400" src="https://telegra.ph/file/1f8dc8c01edf0e576ee81.mp4">
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TECHTOAMYT/TECHTOAMYT/refs/heads/main/20250414_153247(1).jpg">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=techtoamyt&label=Profile%20views&color=0e75b6&style=flat" alt="techtoamyt" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=techtoamyt" alt="techtoamyt" /></a> </p>
